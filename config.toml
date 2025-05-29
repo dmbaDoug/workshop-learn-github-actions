@@ -37,7 +37,8 @@ canonifyURL = true
   # Add a name or alias to this list as you go through the workshop.
   Authors = [
     "Carson Anderson",
-    "Doug Jepson"
+    "Doug Jepson",
+    "Mickey Mouse"
   ]
 
   # (Optional, default light) Sets color theme: light, dark or auto.
